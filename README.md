@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ras-2004-shaikh)](https://github.com/anuraghazra/github-readme-stats)
+
+Hello everyone. I am kinda new on Github. In fact I am kinda new to the coding world. I'll appreciate
+any and all kind of help.
+Thanks a lot.
